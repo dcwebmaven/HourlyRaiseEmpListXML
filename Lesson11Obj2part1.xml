@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lesson11Obj2part1.xsl"?>
+
+ <Employees>
+   <Employee>
+     <First>John</First>
+     <Last>Smith</Last>
+     <Phone Type="Cell">1-800-123-4567</Phone>
+     <Birthday>1960-05-25</Birthday>
+     <HourlyRate>35.85</HourlyRate>
+   </Employee>
+   <Employee>
+     <First>Suzanne</First>
+	 <Last>Vega</Last>
+	 <Phone Type="Cell">1-801-999-9999</Phone>
+	 <Birthday>1965-11-01</Birthday>
+	 <HourlyRate>60.00</HourlyRate>
+    </Employee>
+ 
+ </Employees> 
